@@ -1,6 +1,5 @@
 # Prueba-Traveler
 Se genera prueba para cargo de arquitecto de soluciones
-<<<<<<< HEAD
 
 Explicación de la prueba
 
@@ -27,7 +26,3 @@ link presupuesto calculadora AWS
 	https://calculator.aws/#/estimate?id=c2aeb939d2ed19bb1c345b035ba02048010eee64
 	
 	
-	
-
-=======
->>>>>>> parent of 8211494 (Update README.md)
